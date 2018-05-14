@@ -57,9 +57,36 @@ By employing dedicated engineers to this matter, we will be able to factually as
 
 Developing an open-source schematics would leverage more minds between the world around those problems and arrive at better conclusions. It would also prevent companies from selling capped hardwares to customers that would soon be outdated.
 
- 
+> The profitability of a miner largely depends on variables that the manufacturer controls without disclosure to anyone else. [...] Beyond this, the buyer has no idea how many were sold nor where the difficulty would be when the units shipped. The manufacturer does know whether or not the buyer is going to be able to make a return, but the buyer does not. The buyer is trusting the manufacturer entirely.
+
+The Foundation would be able to bring credibility and fairness in the sector by revealing those numbers and letting the miners make an informed decision about their purchasers. 
+
+> That is to say, Bitmain sold over a hundred million dollars in mining rigs knowing that the block reward was not large enough for their customers to make back that money, even assuming free electricity. And this isn’t the first time, they pulled something similar with the Dash miners. We call it flooding, and it’s another example of the dangerous asymmetry that exists between manufacturers and customers.
+
+Same as above.
+
+> Our investigation into the mining equipment strongly suggests to us that the total manufacturing cost of the equipment is less than $1,000, meaning that anyone who paid $10,000 for it was paying a massive profit premium to the manufacturer, giving them the ability to make 9 more units for themselves. 
+
+By cutting the profits, the Foundation would be able to make ASIC's more easily acessible to people all around the world. Something that no other organization has ever done.
 
 
+#### Budget
+
+ The Zcash Foundation is entitle to 1.44% of all the Monetary Supply according to [this](https://blog.z.cash/continued-funding-and-transparency/). Over the course of 4 years, the Foundation will receive approx. 300k ZEC, which, at today's rate, is close to U$92M.
+Although this isn't anywhere near close to Bitmain's revenue, (1) it might be enough to boostrap a start and (2) we can expect the price of ZEC to rise with time. 
+
+> Using Sia as an example, we estimate it cost Bitmain less than $10 million to bring the A3 to market. 
+
+This proposal is, nevertheless, **very costly**. Therefore, should be heavily discussed.
+
+#### Caveats:
+
+Here are some arguments against the proposal that I think it's worth noting and debated: 
+
++ This proposal adds tons of new responsabilities/work to the Foundation
++ If a miner doesn't make a profit they could put the blame in Zcash Foundation - bad PR.
++ A non-profit organization can't remain competitive against a for-profit one in the long run.
++ This proposal is **very** expensive
 
 ### Notes
 
