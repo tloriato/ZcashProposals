@@ -14,7 +14,7 @@ non-profit ASIC Program, to research, develop and sell those mining equiptments 
 
 ## Quick Background into the GPU x ASIC's debate
 
-For the last few weeks the community have been discussing the benefits and trade-offs between enforcing ASIC-resistant algorithms to achieve consensus in the network. The major discussion is happening [here](https://forum.z.cash/t/let-s-talk-about-asic-mining/27353). Below is a quick summary from stances that I've been reading. I did my best to compile it fairly.
+For the last few weeks the community have been discussing the benefits and trade-offs between enforcing ASIC-resistant algorithms to achieve consensus in the network. The major discussion is happening [here](https://forum.z.cash/t/let-s-talk-about-asic-mining/27353). What follows below is a quick summary from stances that I've been reading. I did my best to compile it fairly.
 
  #### Those in favor of ASIC-resistance argue:
  + GPU mining provides a more fairly<sup>1</sup> environment for the general community 
@@ -22,8 +22,9 @@ For the last few weeks the community have been discussing the benefits and trade
  + It was stated that Zcash would be ASIC-resistant and people have made investments<sup>2</sup> on those assumptions. 
  
  #### Those in against of ASIC-resistance argue:
-
-
+ + ASIC's provide a stronger incentive to support the coin according to Game Theory.
+ + By making specialized equipment tied to a specific currency<sup>3</sup>, it becomes more costly to attack the network
+ + Zooko, ZcashCo's CEO, has also [suggested that ASIC's favors decentralization](https://forum.z.cash/t/let-s-talk-about-asic-mining/27353/151)
 
 ## The mission
 
@@ -33,7 +34,9 @@ For the last few weeks the community have been discussing the benefits and trade
 ### Notes
 
 1: "Fair" is a subjective concept that I've not seen defined by the supporters. So common-sense is required here.  
-2: Ranging from buying mining equipments to simply supporting/promoting it because they believe in this vision.
+2: Ranging from buying mining equipments to simply supporting/promoting it because they believe in this vision.  
+3: Assuming that there isn't two coins (*with the same "relevance"*) with the same algorithm.
+  
 
 
 
