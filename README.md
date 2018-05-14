@@ -18,7 +18,7 @@ For the last few weeks the community have been discussing the benefits and trade
 
  #### Those in favor of ASIC-resistance argue:
  + GPU mining provides a more fairly<sup>1</sup> environment for the general community 
- + Because of the aforementioned topic, GPU best serves one of the core missions of Zcash (*see: [The Mission](#the-mission)*)
+ + Because of the aforementioned topic, GPU best serves one of the core missions of Zcash (*see: [Mission](#zcashs-mission)*)
  + It was stated that Zcash would be ASIC-resistant and people have made investments<sup>2</sup> on those assumptions. 
  
  #### Those against ASIC-resistance argue:
@@ -43,11 +43,11 @@ This is a bit vague so I'm resorting to Zcash Foundation's mission<sup>5</sup>, 
 
  This proposal is the result of some thoughts into the debate over the few weeks and the read of an **excellent** [post](https://blog.sia.tech/the-state-of-cryptocurrency-mining-538004a37f9b). Every citation that follows is from there.
 
- #### Proposal: 
+ ### Proposal: 
   The idea of this proposal is to provide an even playing field in the mining sector. By leveraging the self-funded mechanism and the non-profit motivation of the Zcash Foundation, the organization has a special opportunity to foment decentralization and diversification of stakeholders while maintaining and increasing the network's security. 
   To fulfill its mission, the Foundation could bootstrap a R&D departament in order to create open-source blueprints for Zcash's ASICs and, going even further, manufacture and sell those equipments without profit. 
 
-#### Problems with the State of Cryptocurrency Mining:
+ ### Problems with the State of Cryptocurrency Mining:
 
 > The vast majority of ASIC-resistant algorithms were designed by software engineers making assumptions about the limitations of custom hardware. These assumptions tend to be incorrect.
 
@@ -70,7 +70,7 @@ Same as above.
 By cutting the profits, the Foundation would be able to make ASIC's more easily acessible to people all around the world. Something that no other organization has ever done.
 
 
-#### Budget
+ ### Budget:
 
  The Zcash Foundation is entitle to 1.44% of all the Monetary Supply according to [this](https://blog.z.cash/continued-funding-and-transparency/). Over the course of 4 years, the Foundation will receive approx. 300k ZEC, which, at today's rate, is close to U$92M.
 Although this isn't anywhere near close to Bitmain's revenue, (1) it might be enough to boostrap a start and (2) we can expect the price of ZEC to rise with time. 
@@ -79,7 +79,7 @@ Although this isn't anywhere near close to Bitmain's revenue, (1) it might be en
 
 This proposal is, nevertheless, **very costly**. Therefore, should be heavily discussed.
 
-#### Caveats:
+ ### Caveats:
 
 Here are some arguments against the proposal that I think it's worth noting and debated: 
 
