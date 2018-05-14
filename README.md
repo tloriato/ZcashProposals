@@ -26,7 +26,16 @@ For the last few weeks the community have been discussing the benefits and trade
  + By making specialized equipment tied to a specific currency<sup>3</sup>, it becomes more costly to attack the network
  + Zooko, ZcashCo's CEO, has also [suggested that ASIC's favors decentralization](https://forum.z.cash/t/let-s-talk-about-asic-mining/27353/151)
 
-## The mission
+## Zcash's Mission
+
+From ZcashCo's [website](https://z.cash/support/faq.html#zcash-mission): 
+
+> Our mission is to create an open, global economic platform from which no-one can be excluded.
+
+This is a bit vague so I'm resorting to Zcash Foundation's mission<sup>4</sup>, which can be read more carefully [here](https://github.com/ZcashFoundation/ZcashFoundation/blob/master/MISSION.md):
+
+> We support the transition of Zcash into a large and healthy community with diverse stakeholders, held accountable to its userbase in the broadest sense. 
+
 
 ## Proposal
   *This scope of this proposal is left deliberately vague, and does not prescribe a particular action for the Foundation to take. Nor does the outcome indicate a particular technical approach in response. If this proposal is accepted, the Foundation will adopt this as a priority and come up with an action plan to outline in a blogpost.*
@@ -35,7 +44,8 @@ For the last few weeks the community have been discussing the benefits and trade
 
 1: "Fair" is a subjective concept that I've not seen defined by the supporters. So common-sense is required here.  
 2: Ranging from buying mining equipments to simply supporting/promoting it because they believe in this vision.  
-3: Assuming that there isn't two coins (*with the same "relevance"*) with the same algorithm.
+3: Assuming that there isn't two coins (*with the same "relevance"*) with the same algorithm.  
+4: It isn't very clear, yet, how they might differ, but I'd assume the same core values. 
   
 
 
