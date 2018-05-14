@@ -6,7 +6,7 @@ Proposed ballot entry:
 
 It would be in the best interest of Zcash community to preserve the decentralization of its stakeholders 
 while prioritizing the benefits that ASIC's offers. Zcash Foundation should, therefore, create a 
-non-profit ASIC Program, to research, develop and sell those mining equiptments at cost for the community.
+non-profit ASIC Program, to research, develop and sell those mining equipments at cost for the community.
 
 - Agree
 - Disagree
@@ -73,7 +73,7 @@ By cutting the profits, the Foundation would be able to make ASIC's more easily 
  ### Budget:
 
  The Zcash Foundation is entitle to 1.44% of all the Monetary Supply according to [this](https://blog.z.cash/continued-funding-and-transparency/). Over the course of 4 years, the Foundation will receive approx. 300k ZEC, which, at today's rate, is close to U$92M.
-Although this isn't anywhere near close to Bitmain's revenue, (1) it might be enough to boostrap a start and (2) we can expect the price of ZEC to rise with time. 
+Although this isn't anywhere near close to Bitmain's revenue, (1) it might be enough to bootstrap a start and (2) we can expect the price of ZEC to rise with time. 
 
 > Using Sia as an example, we estimate it cost Bitmain less than $10 million to bring the A3 to market. 
 
